@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mukund Atram and I'm a Machine Learning Developer and MERN Stack developer, from SSGMCE Shegaon ✌️!</h2>
+<h2 align="left">Hi 👋! My name is Mukund Atram and I'm a Machine Learning Developer and Data Scientist, from SSGMCE Shegaon ✌️!</h2>
 
 ###
 
