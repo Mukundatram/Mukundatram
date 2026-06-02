@@ -1,8 +1,14 @@
-<h2 align="left">
-  Hi 👋! I'm Mukund Atram — AI Integration Developer<br/>
-  I build production-ready AI systems: LLM APIs, RAG pipelines &<br/>
-  ML inference services that actually deploy — not just notebooks.
-</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukund%20Atram&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Integration%20Developer%20%7C%20MLOps%20%7C%20LLM%20%7C%20RAG%20Pipelines&descAlignY=55&descSize=16" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=I+build+AI+systems+that+actually+deploy+%F0%9F%9A%80;FastAPI+%2B+Docker+%2B+MLflow+%2B+Railway;LLM+%7C+RAG+Pipelines+%7C+MLOps+Engineer;Research+Intern+%40+VNIT+Nagpur+(NIT);SIH+Finalist+%E2%80%94+Govt.+of+India+2023+%F0%9F%8F%86" alt="Typing SVG" />
+  </a>
+</div>
 
 ###
 
@@ -11,7 +17,7 @@
 🚀 &nbsp;Deployed ML inference API — **98.7% accuracy** (FastAPI + Docker + MLflow + Railway)<br/>
 🤖 &nbsp;Built LLM-based code analysis system @ **VNIT Nagpur (NIT)** — Research Intern<br/>
 🏆 &nbsp;**Smart India Hackathon Finalist** — Government of India (2023)<br/>
-💼 &nbsp;Available for **AI integration freelance projects** on Fiverr<br/>
+💼 &nbsp;Open for **AI integration freelance projects** — available on Fiverr<br/>
 📫 &nbsp;atrammukund42@gmail.com
 
 </div>
@@ -34,12 +40,14 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Mukundatram/Mukundatram/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=Mukundatram&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="155" alt="streak stats" />
 </div>
 
 ###
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukundatram&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="trophies" />
+</div>
 
 ###
 
@@ -91,8 +99,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mukundatram/Mukundatram/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
