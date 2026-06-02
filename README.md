@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukundatram&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukundatram&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=false" width="100%" alt="activity graph" />
 </div>
 
 ###
