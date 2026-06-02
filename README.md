@@ -3,7 +3,11 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mukundatram&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
+###
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=I+build+AI+systems+that+actually+deploy+%F0%9F%9A%80;FastAPI+%2B+Docker+%2B+MLflow+%2B+Railway;LLM+%7C+RAG+Pipelines+%7C+MLOps+Engineer;Research+Intern+%40+VNIT+Nagpur+(NIT);SIH+Finalist+%E2%80%94+Govt.+of+India+2023+%F0%9F%8F%86" alt="Typing SVG" />
