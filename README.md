@@ -3,9 +3,9 @@
 </div>
 
 ###
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mukundatram&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+</div> -->
 
 ###
 <div align="center">
